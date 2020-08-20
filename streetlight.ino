@@ -27,5 +27,4 @@ void loop() {
   delay(500);  
   //Serial.println(light);
  // delay(500);     
-
 }
